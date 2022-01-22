@@ -1,10 +1,8 @@
 
-<h1 align="center">Hi there, I'm <a target="_blank">Om Naladkar </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
-<h1 align="center">I am a Web Developer</h1>
 
 ---
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/16058244/nishant-bhosale) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Nishant-Bhosale"/>|
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=17013005)](https://stackoverflow.com/users/16058244/omnaladkar) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=omnaladkar"/>|
 |---|---|
 
 <h1 align="center">Hi 👋, I'm Om Naladkar</h1>
