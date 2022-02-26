@@ -2,8 +2,6 @@
 
 ---
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=17013005)](https://stackoverflow.com/users/16058244/omnaladkar) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=omnaladkar"/>|
-|---|---|
 
 <h1 align="center">Hi 👋, I'm Om Naladkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
